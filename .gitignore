@@ -1,0 +1,14 @@
+Debug/
+Objects/
+Listings/
+*.bak
+*.uvgui.*
+*.uvopt
+*.lst
+*.obj
+*.m51
+*.plg
+*.lnp
+*.build_log.htm
+*.hex
+*.lnp
